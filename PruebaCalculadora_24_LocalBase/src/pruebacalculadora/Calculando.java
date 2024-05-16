@@ -36,7 +36,8 @@ public class Calculando {
       return  resto = dividendo % divisor; 
     }
     public double potencia(double base, double esponente){
-      return 0;
+
+        return Math.pow(base, esponente);  
     }
     public double factorial(double number1){
        return 0;   
