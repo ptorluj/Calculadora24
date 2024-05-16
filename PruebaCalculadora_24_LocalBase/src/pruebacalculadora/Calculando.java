@@ -24,7 +24,10 @@ public class Calculando {
     } 
 
     public double divide(double number1, double number2){
-       return 0;
+        if(number2==0){
+            System.out.println("Error: No se puede dividir entre cero.");
+        }
+       return number1/number2;
     }
        
     public double resto(double dividendo, double divisor){
