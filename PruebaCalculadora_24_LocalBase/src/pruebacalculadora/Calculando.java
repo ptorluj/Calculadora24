@@ -11,27 +11,27 @@ package pruebacalculadora;
 public class Calculando {
 
     public double add(double number1, double number2) {
-        return number1+number2;
+        return 0;
     }
 
     public double subtract(double number1, double number2) {
-        return number1-number2;
+        return 0;
     }
 
     public double multiply(double number1, double number2) {
-        return number1*number2;
+        return 0;
     }
 
     public double divide(double number1, double number2) {
-        return number1/number2;
+        return 0;
     }
 
     public double resto(double dividendo, double divisor) {
-        return dividendo%divisor;
+        return 0;
     }
 
     public double potencia(double base, double esponente) {
-        return Math.pow(base, esponente);
+        return 0;
     }
 
     public double factorial(double number1) {
