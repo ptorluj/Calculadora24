@@ -29,10 +29,11 @@ public class Calculando {
     }
        
     public double resto(double dividendo, double divisor){
-       return 0;   
+        double resto;
+      return  resto = dividendo % divisor; 
     }
     public double potencia(double base, double esponente){
-       return 0;   
+      return 0;
     }
     public double factorial(double number1){
        return 0;   
