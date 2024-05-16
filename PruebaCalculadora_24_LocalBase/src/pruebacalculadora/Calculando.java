@@ -12,7 +12,7 @@ package pruebacalculadora;
 public class Calculando {
 
     public double add(double number1, double number2){
-    return 0;
+    return number1 + number2;
     } 
     
     
